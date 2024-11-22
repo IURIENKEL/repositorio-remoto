@@ -3,3 +3,6 @@ Receita de bolo:
 -Ovo
 -Açucar
 - Manteiga
+- Chocolate
+- Baunilha
+- Oleo
