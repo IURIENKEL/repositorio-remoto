@@ -6,3 +6,4 @@ Receita de bolo:
 - Chocolate
 - Baunilha
 - Oleo
+- Cenoura
