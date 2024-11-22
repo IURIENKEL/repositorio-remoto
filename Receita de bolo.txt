@@ -1,7 +1,7 @@
 Receita de bolo:
--Farinha
--Ovo
--Açucar
+- Farinha
+- Ovo
+- Açucar
 - Manteiga
 - Chocolate
 - Baunilha
